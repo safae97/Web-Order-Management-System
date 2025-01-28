@@ -82,7 +82,7 @@ A detailed report documenting the project's design decisions, demo and implement
 ### Steps to Run the Project:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/WebOrderManagementSystem.git
+   git clone https://github.com/safae97/Web-Order-Management-System.git
 
 ---
 
